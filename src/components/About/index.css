@@ -1,0 +1,21 @@
+/* Write your CSS code here */
+.about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 55vh;
+  font-family: 'Roboto';
+}
+.img {
+  width: 70px;
+}
+.h1 {
+  color: #6d396b;
+  font-size: 32px;
+  font-weight: 500;
+}
+.p1 {
+  color: #555555;
+  font-size: 18px;
+}
